@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
+    <span> Matheus - Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
@@ -42,6 +42,28 @@ Aprender o básico sobre contribuição no GitHub.
       <td>Dicas e Materiais de Apoio</td>    
     </tr>
   </tbody>
+</table>
+
+## Sobre Mim
+<table>
+    <thead>
+        <tr align="left">
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Linkedin</th>
+            <th>Status</th>
+            <th>Formação</th>
+        </tr>
+    </thead>
+    <tbody align="left">
+        <tr>
+            <td>Matheus</td>
+            <td>19</td>
+            <td>[Linkedin](https://www.linkedin.com/in/matheus-willey-96b984244/)</td>
+            <td>Solteiro</td>
+            <td>Técnico em Informática</td>
+        </tr>
+    </tbody>
 </table>
 
 ---
