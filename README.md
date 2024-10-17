@@ -59,7 +59,7 @@ Aprender o básico sobre contribuição no GitHub.
         <tr>
             <td>Matheus</td>
             <td>19</td>
-            <td>[Linkedin](https://www.linkedin.com/in/matheus-willey-96b984244/)</td>
+            <td>[Linkedin(https://www.linkedin.com/in/matheus-willey-96b984244/)]</td>
             <td>Solteiro</td>
             <td>Técnico em Informática</td>
         </tr>
